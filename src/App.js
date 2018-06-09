@@ -5,8 +5,10 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-     <h1>Mi primera Aplicación</h1>
-     <p>Esta es mi primera aplicación en React, está padrísimo!"</p>
+    	<div>
+	     <h1>Mi primera Aplicación</h1>
+	     <p>Esta es mi primera aplicación en React, está padrísimo!</p>
+	    </div>
     );
   }
 }
